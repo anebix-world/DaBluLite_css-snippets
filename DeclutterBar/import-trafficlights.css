@@ -14,7 +14,7 @@
 #app-mount .withFrame_a934d8 {
     margin-left: 0;
 }
-.chat_a7d72e:has(.newMessagesBar_cf58b5) .container_fc4f04 {
+.chat_a7d72e:has(.newMessagesBar__0f481) .container_fc4f04 {
     padding-right: 46px !important;
 }
 .winButtonClose_a934d8 {
@@ -59,11 +59,11 @@
     width: var(--mactitlebar-button-width) !important;
     height: var(--mactitlebar-button-height) !important;
 }
-.newMessagesBar_cf58b5 .barButtonAlt_cf58b5 {
+.newMessagesBar__0f481 .barButtonAlt__0f481 {
     right: calc((-46px * 5.6));
 }
-.container_c2739c .container_fc4f04,
-.homeWrapper_d175a8 .container_fc4f04,
+.container__133bf .container_fc4f04,
+.homeWrapper__0920e .container_fc4f04,
 .shop-3sIaH8 .container_fc4f04 {
     left: 0;
 }
